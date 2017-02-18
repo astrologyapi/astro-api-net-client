@@ -1,4 +1,4 @@
-# Astrology API-C#-Client
+# Astrology-API-NET-Client
 .NET client to consume Astrology APIs
 
 # Demo
