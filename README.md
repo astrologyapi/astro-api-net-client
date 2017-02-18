@@ -1,5 +1,5 @@
-# vedic-rishi-api-net-client
-.NET client to consume Vedic Rishi Astrology and Horoscope APIs
+# Astrology API-.NET-Client
+.NET client to consume Astrology APIs
 
 # Demo
 Click on the link to download the demo project of Vedic Rishi .Net Client.<br />
