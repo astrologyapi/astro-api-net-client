@@ -3,12 +3,12 @@
 
 # Demo
 Click on the link to download the demo project of Vedic Rishi .Net Client.<br />
-Start your download from <a href="https://www.vedicrishiastro.com/developers/DotNetApiClient.zip">here</a> <br />
+Start your download from <a href="https://www.astrologyapi.com/developers/DotNetApiClient.zip">here</a> <br />
 -Replace ``` userId ``` and ``` apiKey``` with your id and keys respectively.<br />
 -Downloaded project require .Net framework 4.0 or above.
 
 # Where to get API Key
-You can visit https://www.vedicrishiastro.com to get the astrology API key to be used for your websites or mobile applications.
+You can visit https://www.astrologyapi.com/ to get the astrology API key to be used for your websites or mobile applications.
 
 # How To Use
 1. Create your web application on .Net Framework 4.0 or above.
@@ -19,7 +19,7 @@ You can visit https://www.vedicrishiastro.com to get the astrology API key to be
     var client = new VedicRishiNetClient(userid, apiKey);
     ```
     Replace ``` userId ``` and ``` apiKey``` with your id and keys respectively.
-    You can get the API key details from https://www.vedicrishiastro.com/
+    You can get the API key details from https://www.astrologyapi.com/
 
 4. Call the api
    ```C#
@@ -88,4 +88,4 @@ You can visit https://www.vedicrishiastro.com to get the astrology API key to be
     var ayanamsha = (string)convertObj.SelectToken("ayanamsha");
     ```
 
-    For API documentation, visit - https://www.vedicrishiastro.com/docs/
+    For API documentation, visit - https://www.astrologyapi.com/docs/
