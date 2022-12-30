@@ -7,7 +7,7 @@ using System.Web;
 /// Summary description for ApiCall
 /// Here is a simple wrapper writen 
 /// who make api call for you
-/// http://www.vedicrishiastro.com/
+/// https://json.astrologyapi.com/v1/
 /// Author: Ajeet Kanojia
 /// Date: 06/4/15
 /// Time: 5:42 PM
@@ -24,14 +24,14 @@ public class ApiCall
     public string makeApiCall(string apiEndPoint, string requestData)
     {
         /**
-         * userId for Vedic Rishi Astro API
-         * api key for Vedic Rishi Astro API access
+         * userId for AstrologyAPI
+         * api key for AstrologyAPI access
         */
         string userid = "< Your User Id >",
                 apiKey = "< Yor API Key >";
 
 
-        var client = new VedicRishiNetClient(userid, apiKey);
+        var client = new AstrologyAPIClient(userid, apiKey);
 
         return client.makeRequest(apiEndPoint, requestData);
 

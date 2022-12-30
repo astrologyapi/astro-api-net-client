@@ -7,18 +7,18 @@ using System.Text;
 using System.Net;
 
 /// <summary>
-/// Summary description for VedicRishiNetClient
-/// Vedic Rishi Client for consuming Vedic Rishi Astro Web APIs
-/// http://www.vedicrishiastro.com/
+/// Summary description for AstrologyAPIClient
+/// AstrologyAPI Client for consuming AstrologyAPIs
+/// https://json.astrologyapi.com/v1/
 /// Author: Ajeet Kanojia
 /// Date: 06/4/15
 /// Time: 5:42 PM
 /// </summary>
-public class VedicRishiNetClient
+public class AstrologyAPIClient
 {
     public string userId, apikey;
 
-	public VedicRishiNetClient(string Id , string Key)
+	public AstrologyAPIClient(string Id , string Key)
 	{
 		//Initialising userid and Apikey
 
@@ -34,7 +34,7 @@ public class VedicRishiNetClient
 
     public string makeRequest(string address, string method, string body)
     {
-        var request = (HttpWebRequest)WebRequest.Create(@"http://api.vedicrishiastro.com/v1/"+address);
+        var request = (HttpWebRequest)WebRequest.Create(@"https://json.astrologyapi.com/v1/"+address);
         request.Method = method;
         request.Headers.Add("Authorization", "Basic " + Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(userId + ":" + apikey)));
         request.PreAuthenticate = true;
