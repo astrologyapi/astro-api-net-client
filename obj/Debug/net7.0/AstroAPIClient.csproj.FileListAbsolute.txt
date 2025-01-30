@@ -1,0 +1,17 @@
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.csproj.AssemblyReference.cache
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.AssemblyInfoInputs.cache
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.AssemblyInfo.cs
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.csproj.CoreCompileInputs.cache
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/bin/Debug/net7.0/AstroAPIClient
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/bin/Debug/net7.0/AstroAPIClient.deps.json
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/bin/Debug/net7.0/AstroAPIClient.runtimeconfig.json
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/bin/Debug/net7.0/AstroAPIClient.dll
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/bin/Debug/net7.0/AstroAPIClient.pdb
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.csproj.CopyComplete
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.dll
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/refint/AstroAPIClient.dll
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.pdb
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/AstroAPIClient.genruntimeconfig.cache
+/Users/surajyadav/Desktop/desktop/sdk/astro-api-net-client/AstroAPIClient/obj/Debug/net7.0/ref/AstroAPIClient.dll
